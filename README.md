@@ -1,6 +1,5 @@
-# [Your Name]'s Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+# Suvitha's Notes
+
 ## Summary 
 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Data Science Bootcamp.
+This repository contains all of the notes taken by [Suvitha](https://github.com/msgsuvitha) for the Lighthouse Labs Data Science Bootcamp.
